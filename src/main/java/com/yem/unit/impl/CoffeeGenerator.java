@@ -48,5 +48,6 @@ public class CoffeeGenerator implements Generator<Coffee> {
 
     public static void main(String[] args) {
 
+
     }
 }

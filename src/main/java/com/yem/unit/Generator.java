@@ -7,4 +7,5 @@ package com.yem.unit;
  */
 public interface Generator <T>{
     T next();
+
 }
