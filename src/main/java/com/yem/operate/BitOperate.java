@@ -6,6 +6,8 @@ import org.junit.jupiter.api.Test;
  * 操作符
  */
 public class BitOperate {
+
+
     /**
      * 与操作符&
      * 当两个输入位都为1时，生成输出位1，否则为0
